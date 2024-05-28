@@ -1,0 +1,282 @@
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance Monitoring System.exe.config
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance Monitoring System.exe.manifest
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance Monitoring System.application
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance Monitoring System.exe
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance Monitoring System.pdb
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance Monitoring System.xml
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.dll
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Imaging.dll
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Math.dll
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Video.dll
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Guna.UI.dll
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Guna.UI2.dll
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\MySql.Data.dll
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\QRCoder.dll
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\UnityEngine.dll
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.xml
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Imaging.xml
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Math.xml
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Video.xml
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance Monitoring System.vbprojResolveAssemblyReference.cache
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Add_Section.resources
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Add_Year_Level.resources
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.AddStudent.resources
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.AdminMenu.resources
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Attendance_Report_Viewer.resources
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Attendance.resources
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.ChangePassword.resources
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Create_Admin_User.resources
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Dashboard.resources
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.EditStudent.resources
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.EditStudentForm.resources
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.GenerateQrCode.resources
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Login.resources
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Resources.resources
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.ScanningAttendance.resources
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.SearchStudent.resources
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance Monitoring System.vbproj.GenerateResource.Cache
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\RdlCompile.cache
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\RdlCompile.compiled
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance Monitoring System.exe.manifest
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance Monitoring System.application
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance Monitoring System.exe
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance Monitoring System.xml
+C:\Users\rebre\onedrive\documents\visual studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance Monitoring System.pdb
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.dll
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Imaging.dll
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Math.dll
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Video.DirectShow.dll
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Video.dll
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Guna.UI.dll
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Guna.UI2.dll
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\MessagingToolkit.QRCode.dll
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\MySql.Data.dll
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\QRCoder.dll
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\UnityEngine.dll
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.xml
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Imaging.xml
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Math.xml
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Video.xml
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Video.DirectShow.xml
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance Monitoring System.vbprojResolveAssemblyReference.cache
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Add_Section.resources
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Add_Year_Level.resources
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.AddStudent.resources
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.AdminMenu.resources
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Attendance_Report_Viewer.resources
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Attendance.resources
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.ChangePassword.resources
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Create_Admin_User.resources
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Dashboard.resources
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.EditStudent.resources
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.EditStudentForm.resources
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.GenerateQrCode.resources
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Login.resources
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Resources.resources
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.ScanningAttendance.resources
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.SearchStudent.resources
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance Monitoring System.vbproj.GenerateResource.Cache
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\RdlCompile.cache
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\RdlCompile.compiled
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.exe.config
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.exe.manifest
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.application
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.exe
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.pdb
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.xml
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance System.exe.manifest
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance System.application
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance System.exe
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance System.xml
+D:\Software\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance System.pdb
+C:\Users\Jollybee24\Desktop\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.exe.config
+C:\Users\Jollybee24\Desktop\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance System.exe
+C:\Users\Jollybee24\Desktop\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance System.xml
+C:\Users\Jollybee24\Desktop\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance System.pdb
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.exe.config
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance System.exe
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance System.xml
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance System.pdb
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.exe.manifest
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.application
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.exe
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.pdb
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.xml
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.dll
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Imaging.dll
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Math.dll
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Video.dll
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\MySql.Data.dll
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\QRCoder.dll
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\UnityEngine.dll
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.xml
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Imaging.xml
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Math.xml
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Video.xml
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance Monitoring System.vbprojResolveAssemblyReference.cache
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Add_Section.resources
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Add_Year_Level.resources
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.AddStudent.resources
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.AdminMenu.resources
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Attendance_Report_Viewer.resources
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Attendance.resources
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.ChangePassword.resources
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Create_Admin_User.resources
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Dashboard.resources
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.EditStudent.resources
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.EditStudentForm.resources
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.GenerateQrCode.resources
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Login.resources
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Resources.resources
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.ScanningAttendance.resources
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.SearchStudent.resources
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance Monitoring System.vbproj.GenerateResource.Cache
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\RdlCompile.cache
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\RdlCompile.compiled
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance System.exe.manifest
+C:\Users\Jollybee24\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance System.application
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.exe.config
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance System.exe
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance System.xml
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance System.pdb
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.exe.manifest
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.application
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.exe
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.pdb
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.xml
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.dll
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Imaging.dll
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Math.dll
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Video.dll
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\MySql.Data.dll
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\QRCoder.dll
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\UnityEngine.dll
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.xml
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Imaging.xml
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Math.xml
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Video.xml
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance Monitoring System.vbprojResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Add_Section.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Add_Year_Level.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.AddStudent.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.AdminMenu.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Attendance_Report_Viewer.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Attendance.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.ChangePassword.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Create_Admin_User.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Dashboard.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.EditStudent.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.EditStudentForm.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.GenerateQrCode.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Login.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Resources.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.ScanningAttendance.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.SearchStudent.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance Monitoring System.vbproj.GenerateResource.Cache
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\RdlCompile.cache
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\RdlCompile.compiled
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance System.exe.manifest
+C:\Users\Joshua\Documents\Visual Studio 2012\Projects\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance System.application
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.exe.config
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance System.exe
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance System.xml
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance System.pdb
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.exe.manifest
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.application
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.exe
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.pdb
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.xml
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.dll
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Imaging.dll
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Math.dll
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Video.dll
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\MySql.Data.dll
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\QRCoder.dll
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\UnityEngine.dll
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.xml
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Imaging.xml
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Math.xml
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Video.xml
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance Monitoring System.vbprojResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Add_Section.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Add_Year_Level.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.AddStudent.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.AdminMenu.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Attendance_Report_Viewer.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Attendance.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.ChangePassword.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Create_Admin_User.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Dashboard.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.EditStudent.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.EditStudentForm.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.GenerateQrCode.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Login.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Resources.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.ScanningAttendance.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.SearchStudent.resources
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance Monitoring System.vbproj.GenerateResource.Cache
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\RdlCompile.cache
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\RdlCompile.compiled
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance System.exe.manifest
+C:\Users\Joshua\Documents\Visual Studio 2012\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance System.application
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance Monitoring System.vbproj.AssemblyReference.cache
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Add_Section.resources
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Add_Year_Level.resources
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.AddStudent.resources
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.AdminMenu.resources
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Attendance_Report_Viewer.resources
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Attendance.resources
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.ChangePassword.resources
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Create_Admin_User.resources
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Dashboard.resources
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.EditStudent.resources
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.EditStudentForm.resources
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.GenerateQrCode.resources
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Login.resources
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.Resources.resources
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.ScanningAttendance.resources
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student_Attendance_Monitoring_System.SearchStudent.resources
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance Monitoring System.vbproj.GenerateResource.cache
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance Monitoring System.vbproj.CoreCompileInputs.cache
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance System.exe
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance System.xml
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance System.pdb
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.exe.config
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.exe.manifest
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.application
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.exe
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.pdb
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Student Attendance System.xml
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.dll
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Imaging.dll
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Math.dll
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Video.dll
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\MySql.Data.dll
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\QRCoder.dll
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\UnityEngine.dll
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.xml
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Imaging.xml
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Math.xml
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Video.xml
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance System.exe.manifest
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance System.application
+C:\Users\o\Documents\Student Attendance Monitoring System\Student Attendance Monitoring System\obj\Debug\Student Attendance Monitoring System.vbproj.CopyComplete

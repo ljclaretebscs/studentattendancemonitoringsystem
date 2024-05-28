@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="studentattendancesystemdbDataSet" targetNamespace="http://tempuri.org/studentattendancesystemdbDataSet.xsd" xmlns:mstns="http://tempuri.org/studentattendancesystemdbDataSet.xsd" xmlns="http://tempuri.org/studentattendancesystemdbDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="studentattendancesystemdbConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="studentattendancesystemdbConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Student_Attendance_Monitoring_System.My.MySettings.GlobalReference.Default.studentattendancesystemdbConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="attendancetblTableAdapter" GeneratorDataComponentClassName="attendancetblTableAdapter" Name="attendancetbl" UserDataComponentName="attendancetblTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="studentattendancesystemdbConnectionString (MySettings)" DbObjectName="studentattendancesystemdb.attendancetbl" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `Attendance_No`, `TimeIn`, `TimeOut`, `Attendance_Date`, `Student_Name`, `Student_ID`, `Section`, `Year_Level` FROM `attendancetbl`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="studentattendancesystemdbDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="studentattendancesystemdbDataSet" msprop:Generator_UserDSName="studentattendancesystemdbDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="attendancetbl" msprop:Generator_TableClassName="attendancetblDataTable" msprop:Generator_TableVarName="tableattendancetbl" msprop:Generator_TablePropName="attendancetbl" msprop:Generator_RowDeletingName="attendancetblRowDeleting" msprop:Generator_RowChangingName="attendancetblRowChanging" msprop:Generator_RowEvHandlerName="attendancetblRowChangeEventHandler" msprop:Generator_RowDeletedName="attendancetblRowDeleted" msprop:Generator_UserTableName="attendancetbl" msprop:Generator_RowChangedName="attendancetblRowChanged" msprop:Generator_RowEvArgName="attendancetblRowChangeEvent" msprop:Generator_RowClassName="attendancetblRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

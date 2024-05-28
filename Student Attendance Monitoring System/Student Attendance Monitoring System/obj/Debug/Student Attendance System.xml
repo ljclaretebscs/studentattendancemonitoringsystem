@@ -1,0 +1,261 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Student Attendance System
+</name>
+</assembly>
+<members>
+<member name="T:Student_Attendance_Monitoring_System.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Student_Attendance_Monitoring_System.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Student_Attendance_Monitoring_System.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Student_Attendance_Monitoring_System.My.Resources.Resources.barcode">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Student_Attendance_Monitoring_System.My.Resources.Resources.calendar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Student_Attendance_Monitoring_System.My.Resources.Resources.received_547280115974431">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Student_Attendance_Monitoring_System.My.Resources.Resources.timein">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Student_Attendance_Monitoring_System.My.Resources.Resources.University_of_Caloocan_City_Coat_of_Arms">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Student_Attendance_Monitoring_System.My.Resources.Resources.user">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Student_Attendance_Monitoring_System.My.Resources.Resources.user1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Student_Attendance_Monitoring_System.My.Resources.Resources.windows_error__1_">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="T:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet.attendancetblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet.attendancetblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet.attendancetblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSetTableAdapters.attendancetblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSetTableAdapters.TableAdapterManager.UpdateAll(Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet1.attendancetblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet1.attendancetblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet1.attendancetblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet1TableAdapters.attendancetblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet1TableAdapters.TableAdapterManager.UpdateAll(Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet2.attendancetblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet2.attendancetblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet2.attendancetblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet2TableAdapters.attendancetblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet2TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet2TableAdapters.TableAdapterManager.UpdateAll(Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet2)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Student_Attendance_Monitoring_System.studentattendancesystemdbDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
